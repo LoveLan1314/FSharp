@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="FirstChapter\DerivativeApp.fs" />
+    <Compile Include="FirstChapter\NumberseqApp.fs" />
+    <Compile Include="FirstChapter\StatisticApp.fs" />
+    <Compile Include="FirstChapter\BasicApp.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
