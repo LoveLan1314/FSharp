@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="FirstChapter\ConsoleInApp.fs" />
+    <Compile Include="FirstChapter\CombinatorialApp.fs" />
     <Compile Include="FirstChapter\VectorMatrix.fs" />
     <Compile Include="FirstChapter\DerivativeApp.fs" />
     <Compile Include="FirstChapter\NumberseqApp.fs" />
