@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="SecondChapter\OptionalType.fs" />
+    <Compile Include="SecondChapter\MutableValues.fs" />
+    <Compile Include="SecondChapter\VariableTypeAndReferenceType.fs" />
     <Compile Include="SecondChapter\ComplexType.fs" />
     <Compile Include="SecondChapter\BaseValueType.fs" />
     <Compile Include="FirstChapter\ConsoleInApp.fs" />
