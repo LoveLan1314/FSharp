@@ -6,6 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="ThirdChapter\gcd.fs" />
+    <Compile Include="ThirdChapter\RecFunctions.fs" />
+    <Compile Include="ThirdChapter\PatternMatch.fs" />
+    <Compile Include="ThirdChapter\MoreInvoke.fs" />
+    <Compile Include="ThirdChapter\FunctionBase.fs" />
     <Compile Include="SecondChapter\OptionalType.fs" />
     <Compile Include="SecondChapter\MutableValues.fs" />
     <Compile Include="SecondChapter\VariableTypeAndReferenceType.fs" />
