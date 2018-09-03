@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="ThirdChapter\Knapsack.fs" />
+    <Compile Include="ThirdChapter\CLRFunction.fs" />
     <Compile Include="ThirdChapter\gcd.fs" />
     <Compile Include="ThirdChapter\RecFunctions.fs" />
     <Compile Include="ThirdChapter\PatternMatch.fs" />
