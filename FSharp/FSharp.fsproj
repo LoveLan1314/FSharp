@@ -6,6 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="ForthChapter\ExprEva.fs" />
+    <Compile Include="ForthChapter\BigNum.fs" />
+    <Compile Include="ForthChapter\BigNumberOperation.fs" />
+    <Compile Include="ForthChapter\ParseText.fs" />
+    <Compile Include="ForthChapter\NumericalConversion.fs" />
+    <Compile Include="ForthChapter\MathFunction.fs" />
+    <Compile Include="ForthChapter\IntegerBitOperation.fs" />
+    <Compile Include="ForthChapter\NumericComparison.fs" />
     <Compile Include="ThirdChapter\Knapsack.fs" />
     <Compile Include="ThirdChapter\CLRFunction.fs" />
     <Compile Include="ThirdChapter\gcd.fs" />
